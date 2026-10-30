@@ -20,7 +20,7 @@ This repository organizes an educational MEMS-lab overview, my notes on the unde
 
 | Ultrasonic cleaning | Thin-film deposition | Maskless lithography |
 |:--:|:--:|:--:|
-| ![FALC ultrasonic cleaner](assets/equipment/falc-ultrasonic-cleaner.jpg) | ![NANOVAK NVTS-400 deposition system](assets/equipment/nanovak-nvts400-deposition-system.jpg) | ![Heidelberg MLA 150 maskless aligner](assets/equipment/heidelberg-mla150-maskless-aligner.jpg) |
+| ![FALC ultrasonic cleaner](equipment/falc-ultrasonic-cleaner.jpg) | ![NANOVAK NVTS-400 deposition system](equipment/nanovak-nvts400-deposition-system.jpg) | ![Heidelberg MLA 150 maskless aligner](equipment/heidelberg-mla150-maskless-aligner.jpg) |
 | FALC LBS 2 ultrasonic cleaner | NANOVAK NVTS-400 deposition system | Heidelberg Instruments MLA 150 |
 
 *Photographs supplied for this learning record. Check laboratory/university approval before publishing them publicly.*
