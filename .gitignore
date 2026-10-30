@@ -1,0 +1,10 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# Temporary and private/source documents
+*.tmp
+*.bak
+*_private.pdf
+original-course-report/
